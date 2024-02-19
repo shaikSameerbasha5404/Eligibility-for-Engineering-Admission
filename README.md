@@ -61,7 +61,7 @@ namespace Admission
 ```
 
 ## Output:
-![Screenshot (251)](https://github.com/shaikSameerbasha5404/Eligibility-for-Engineering-Admission/assets/118707756/fe1402c1-4155-44be-aa78-eb69725ecbb9)
+
 
 
 ## Result:
