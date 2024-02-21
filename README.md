@@ -17,8 +17,8 @@ Check the conditions and end the program
 ### Step5:
 Get the output
 ## Program:
-Name : Shaik Sameer Basha
-REG NO: 212222240093
+#### Name : Shaik Sameer Basha
+#### REG NO: 212222240093
 ```python
 using System;
 
@@ -62,7 +62,7 @@ namespace Admission
 
 ## Output:
 
-
+![alt text](<Screenshot (252).png>)
 
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed
